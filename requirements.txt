@@ -1,0 +1,12 @@
+neuralintents
+python-dotenv
+SpeechRecognition
+pygame
+pyttsx3
+requests
+wikipedia
+googletrans==3.1.0a0
+
+pyautogui
+
+praw
